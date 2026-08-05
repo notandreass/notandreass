@@ -49,7 +49,7 @@ A menu-driven Windows optimization utility.
 - CPU optimization
 - Power plan management
 - Registry tweaks
-- Easy-to-use interactive menu
+- Interactive menu
 - Fully documented
 
 **Tech**
@@ -76,23 +76,6 @@ A cross-platform terminal system monitor written in C.
 
 ---
 
-## JavaScript Platformer
-
-A simple platformer made from scratch while learning JavaScript.
-
-### Features
-
-- Physics
-- Collision detection
-- Animation
-- Basic particle effects
-
-**Tech**
-
-`JavaScript`
-
----
-
 # 💻 Tech Stack
 
 ## Languages
@@ -112,14 +95,6 @@ A simple platformer made from scratch while learning JavaScript.
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/notandreass/notandreass/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</p>
 
 ---
 
