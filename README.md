@@ -1,84 +1,101 @@
 <div align="center">
 
-# Radu Andrei Bataiosu
+# > whoami
 
-### Programming • Systems • Cybersecurity
+## Radu Andrei Bataiosu
 
-Building software, learning every day, and creating projects that solve real problems.
+```bash
+$ ./whoami
+
+Name        :: Radu Andrei Bataiosu
+Alias       :: notandreass
+Location    :: Vienna, Austria
+Occupation  :: Software Development Enthusiast
+Status      :: Building things and learning every day.
+```
 
 <br>
 
 ![Followers](https://img.shields.io/github/followers/notandreass?style=for-the-badge&label=Followers&color=000000)
-&nbsp;
 ![Stars](https://img.shields.io/github/stars/notandreass?affiliations=OWNER&style=for-the-badge&label=Stars&color=000000)
 
 </div>
 
 ---
 
-# 👋 About Me
+# ~/about.md
 
-Hey! I'm **Radu Andrei Bataiosu**, an aspiring software developer from Vienna, Austria.
+I'm a self-taught developer who enjoys figuring out how computers work under the hood.
 
-I'm passionate about programming, operating systems, cybersecurity, reverse engineering, and performance optimization. I enjoy creating projects that challenge me to learn new technologies and improve my problem-solving skills.
+Most of my free time goes into building projects, experimenting with operating systems, learning low-level programming, optimizing Windows, exploring cybersecurity, and occasionally breaking things just to understand how they work.
 
-Currently I'm working as an apprentice while building my software engineering portfolio through personal projects and continuously expanding my knowledge of software development.
-
----
-
-# 🚀 Current Focus
-
-- 💻 Learning C, JavaScript and Python
-- ⚡ Systems Programming
-- 🖥 Windows Performance Optimization
-- 🔒 Cybersecurity & Reverse Engineering
-- 🤖 Local AI with LM Studio
-- 📚 Building projects for my GitHub portfolio
+I enjoy creating software that teaches me something new rather than following tutorials.
 
 ---
 
-# ⭐ Featured Projects
+# ~/currently.txt
 
-## Intel CPU Optimization Script
+```bash
+> Current Mission
+
+[███████░░░] Learning C
+
+[████████░░] Systems Programming
+
+[██████░░░░] Reverse Engineering
+
+[███████░░░] Cybersecurity
+
+[████████░░] Building my GitHub portfolio
+```
+
+---
+
+# ~/projects
+
+```text
+📦 intel-cpu-optimizer
+```
 
 A menu-driven Windows optimization utility.
 
-### Features
+Features
 
-- Automated Windows optimization
-- CPU optimization
-- Power plan management
-- Registry tweaks
-- Interactive menu
-- Fully documented
+• CPU optimization
 
-**Tech**
+• Registry tweaks
 
-`Batch`
+• Power plan automation
 
----
+• Interactive CLI
 
-## Terminal System Monitor *(In Progress)*
-
-A cross-platform terminal system monitor written in C.
-
-### Planned Features
-
-- Live CPU usage
-- Memory monitoring
-- Running processes
-- Network statistics
-- Clean terminal interface
-
-**Tech**
-
-`C`
+• Fully documented
 
 ---
 
-# 💻 Tech Stack
+```text
+📦 terminal-system-monitor
+```
 
-## Languages
+Currently building a cross-platform terminal monitor in C.
+
+Goals
+
+• Process Viewer
+
+• CPU Usage
+
+• Memory Statistics
+
+• Network Monitoring
+
+• Beautiful terminal interface
+
+---
+
+# ~/toolbox
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -89,7 +106,7 @@ A cross-platform terminal system monitor written in C.
 
 <br>
 
-## Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -98,12 +115,57 @@ A cross-platform terminal system monitor written in C.
 
 ---
 
-# 📫 Contact
+# ~/interests
+
+```text
+🖥 Systems Programming
+
+⚡ Windows Internals
+
+🔒 Cybersecurity
+
+🧠 Artificial Intelligence
+
+🔍 Reverse Engineering
+
+📚 Learning New Technologies
+```
+
+---
+
+# ~/life.c
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    while (alive)
+    {
+        Learn();
+
+        Build();
+
+        Debug();
+
+        PushToGithub();
+
+        Sleep();
+
+        Repeat();
+    }
+}
+```
+
+---
+
+# ~/contact
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notandreass)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:radu.bataiosu@proton.me)
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:radu.bataiosu@proton.me)
 
 </div>
 
@@ -111,6 +173,15 @@ A cross-platform terminal system monitor written in C.
 
 <div align="center">
 
-> *"Every project is another opportunity to learn something new."*
+```bash
+$ git log --oneline
+
+a7f9d8c  Build something.
+c61ef42  Break something.
+4f1bc11  Learn something.
+8c74e13  Repeat.
+```
+
+*"The best way to learn is to build."*
 
 </div>
