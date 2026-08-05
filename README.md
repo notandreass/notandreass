@@ -1,34 +1,23 @@
 <div align="center">
 
-<!-- Main Anime Banner Inspired by Hu Tao/InterCentury aesthetic -->
+<!-- Main Anime Banner -->
 <a href="https://github.com/notandreass">
   <img src="https://i.imgur.com/Rful1pw.gif" alt="Hu Tao banner" width="100%" />
 </a>
 
 <br/>
 
-<!-- Modern Header with the important stuff -->
+<!-- Header with animated SVG -->
 <h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Systems+Programming;Cybersecurity;Reverse+Engineering;C+%26+Systems+Programming." alt="Header" /></h1>
 <h2>"Programs are temporary. Learning is permanent."</h2>
 
-<!-- Short & Sweet About Me Section -->
-> cat about.txt
-
-***
-
-### 👤 Profile
-<p>
-  <strong>Name:</strong> Radu Andrei Bataiosu
-  <br>
-  <strong>Location:</strong> Vienna, Austria
-</p>
-A self-taught systems developer turning curiosity into experience by building operating systems utilities and exploring reverse engineering.
+<p>A self-taught systems developer turning curiosity into experience by building operating system utilities and exploring reverse engineering.</p>
 
 <br>
 
 ***
 
-<!-- The Tech Stack (toolbox/), kept clean -->
+<!-- Tech Stack -->
 <h3>> ls toolbox/</h3>
 
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
@@ -41,25 +30,21 @@ A self-taught systems developer turning curiosity into experience by building op
 
 ***
 
-<!-- Pinned Projects in a modern style -->
+<!-- Projects Section -->
 <h3>> Pinned Projects</h3>
 
-<a href="#intel-cpu-optimizer"><img src="https://img.shields.io/badge/%F0%9F%A7%A0_intel--cpu--optimizer-111111?style=flat-square&logo=c&logoColor=white" /></a>
-<a href="#terminal-system-monitor"><img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_terminal--system--monitor-111111?style=flat-square&logo=javascript&logoColor=white" /></a>
+<a href="https://github.com/notandreass/intel-cpu-optimizations" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A7%A0_intel--cpu--optimizations-111111?style=flat-square&logo=c&logoColor=white" /></a>
+<a href="https://github.com/notandreass" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_terminal--system--monitor-111111?style=flat-square&logo=javascript&logoColor=white" /></a>
 
 <br>
 
-<!-- Keep the uptime and git status, short and sweet -->
 <code>while(alive){ Learn(); Build(); Debug(); Commit(); Repeat(); }</code>
 
-<br>
-
-`git status`
-On branch main | nothing to commit, always something to learn.
+<br><br>
 
 ***
 
-<!-- Connect Buttons/Socials (ping me) -->
+<!-- Contact Links -->
 <h3>> ping me</h3>
 
 <a href="https://github.com/notandreass" target="_blank">
