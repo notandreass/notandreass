@@ -65,13 +65,13 @@
 
 <br>
 
-### `terminal-system-monitor` *(WIP)*
+### `terminal-system-monitor`
 
 <p>A lightweight, interactive terminal-based system monitoring tool (currently work in progress). It aims to provide real-time insights into CPU usage, memory consumption, and running processes, demonstrating my ability to build small, efficient utilities.</p>
 
 <div align="center">
 
-<a href="https://github.com/notandreass" target="_blank">
+<a href="https://github.com/notandreass/terminal-system-monitor" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_VIEW_terminal--system--monitor-111111?style=for-the-badge&logo=javascript&logoColor=white" height="40px" alt="View Terminal System Monitor" />
 </a>
 
