@@ -1,7 +1,3 @@
-<p align="center">
-<img src="YOUR_BANNER_IMAGE" width="100%">
-</p>
-
 <div align="center">
 
 # Radu Andrei Bataiosu
@@ -10,17 +6,11 @@
 
 Building software, learning every day, and creating projects that solve real problems.
 
-</div>
-
 <br>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=notandreass&color=black&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/notandreass?style=for-the-badge&color=black)
-
-![Stars](https://img.shields.io/github/stars/notandreass?style=for-the-badge&color=black)
+![Followers](https://img.shields.io/github/followers/notandreass?style=for-the-badge&label=Followers&color=000000)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/notandreass?affiliations=OWNER&style=for-the-badge&label=Stars&color=000000)
 
 </div>
 
@@ -28,71 +18,78 @@ Building software, learning every day, and creating projects that solve real pro
 
 # 👋 About Me
 
-<img align="right" width="230" src="YOUR_CHARACTER_IMAGE">
+Hey! I'm **Radu Andrei Bataiosu**, an aspiring software developer from Vienna, Austria.
 
-Hi!
+I'm passionate about programming, operating systems, cybersecurity, reverse engineering, and performance optimization. I enjoy creating projects that challenge me to learn new technologies and improve my problem-solving skills.
 
-I'm **Radu**, an aspiring software developer from Austria.
-
-I enjoy building software that helps people or teaches me something new.
-
-Most of my time is spent experimenting with
-
-- Windows internals
-- Performance optimization
-- Programming
-- Reverse engineering
-- Cybersecurity
-- Artificial Intelligence
-
-I'm currently working as a retail apprentice while building my software engineering portfolio through personal projects.
-
-<br clear="right">
+Currently I'm working as an apprentice while building my software engineering portfolio through personal projects and continuously expanding my knowledge of software development.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Focus
 
-### Intel CPU Optimization Script
+- 💻 Learning C, JavaScript and Python
+- ⚡ Systems Programming
+- 🖥 Windows Performance Optimization
+- 🔒 Cybersecurity & Reverse Engineering
+- 🤖 Local AI with LM Studio
+- 📚 Building projects for my GitHub portfolio
+
+---
+
+# ⭐ Featured Projects
+
+## Intel CPU Optimization Script
 
 A menu-driven Windows optimization utility.
 
-Features:
+### Features
 
-- CPU tuning
+- Automated Windows optimization
+- CPU optimization
 - Power plan management
-- Windows optimization
+- Registry tweaks
+- Easy-to-use interactive menu
 - Fully documented
 
-**Languages**
+**Tech**
 
-Batch
+`Batch`
 
 ---
 
-### Terminal System Monitor *(Coming Soon)*
+## Terminal System Monitor *(In Progress)*
 
-A cross-platform terminal monitor written in C.
+A cross-platform terminal system monitor written in C.
 
-Features
+### Planned Features
 
 - Live CPU usage
 - Memory monitoring
-- Process list
+- Running processes
 - Network statistics
+- Clean terminal interface
+
+**Tech**
+
+`C`
 
 ---
 
-### JavaScript Platformer
+## JavaScript Platformer
 
-A small game engine built from scratch.
+A simple platformer made from scratch while learning JavaScript.
 
-Features
+### Features
 
 - Physics
+- Collision detection
 - Animation
-- Collision
-- Particles
+- Basic particle effects
+
+**Tech**
+
+`JavaScript`
 
 ---
 
@@ -100,68 +97,45 @@ Features
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-![Batch](https://img.shields.io/badge/Batch-black?style=for-the-badge)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge)
 
 <br>
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
-
-![LM Studio](https://img.shields.io/badge/LM_Studio-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge)
 
 ---
 
-# 📈 GitHub Statistics
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=notandreass&show_icons=true&theme=dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notandreass&layout=compact&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/notandreass/notandreass/output/github-contribution-grid-snake-dark.svg">
-
+  <img src="https://raw.githubusercontent.com/notandreass/notandreass/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 ---
 
 # 📫 Contact
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:radu.bataiosu@proton.me">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notandreass)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:radu.bataiosu@proton.me)
 
-<a href="https://github.com/notandreass">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
+</div>
 
 ---
 
-> "Every project is another opportunity to learn something new."
+<div align="center">
+
+> *"Every project is another opportunity to learn something new."*
+
+</div>
