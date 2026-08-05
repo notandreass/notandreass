@@ -1,133 +1,72 @@
 <div align="center">
 
-# ⚫ notandreass
+<!-- Main Anime Banner Inspired by Hu Tao/InterCentury aesthetic -->
+<a href="https://github.com/notandreass">
+  <img src="https://i.imgur.com/Rful1pw.gif" alt="Hu Tao banner" width="100%" />
+</a>
 
-```console
-Radu Andrei Bataiosu@github:~$
-```
+<br/>
 
-> *"Programs are temporary. Learning is permanent."*
+<!-- Modern Header with the important stuff -->
+<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Systems+Programming;Cybersecurity;Reverse+Engineering;C+%26+Systems+Programming." alt="Header" /></h1>
+<h2>"Programs are temporary. Learning is permanent."</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Systems+Programming;Cybersecurity;Reverse+Engineering;Building+cool+things+in+C;Always+learning." />
+<!-- Short & Sweet About Me Section -->
+> cat about.txt
 
-</div>
+***
 
----
+### 👤 Profile
+<p>
+  <strong>Name:</strong> Radu Andrei Bataiosu
+  <br>
+  <strong>Location:</strong> Vienna, Austria
+</p>
+A self-taught systems developer turning curiosity into experience by building operating systems utilities and exploring reverse engineering.
 
-## > cat about.txt
+<br>
 
-```console
-Name      : Radu Andrei Bataiosu
-Alias     : notandreass
-Location  : Vienna, Austria
+***
 
-I'm a self-taught developer who enjoys learning by building.
-
-I spend most of my free time experimenting with operating systems,
-writing small utilities, exploring reverse engineering,
-learning C, and building projects that teach me something new.
-
-Current objective:
-Turn curiosity into experience.
-```
-
----
-
-## > tree ~/projects
-
-```text
-projects/
-│
-├── intel-cpu-optimizer
-│   ├── Windows optimization
-│   ├── Registry tweaks
-│   └── Interactive CLI
-│
-├── terminal-system-monitor
-│   ├── Process Viewer
-│   ├── Memory Monitor
-│   ├── CPU Usage
-│   └── Network Statistics
-│
-└── more coming soon...
-```
-
----
-
-## > neofetch
-
-```text
-████████████████████████████████████████
-
-OS          : Windows 11
-Editor      : VS Code
-Shell       : PowerShell
-Languages   : C • Python • JavaScript
-Learning    : Systems Programming
-Interests   : AI • Security • Reverse Engineering
-
-████████████████████████████████████████
-```
-
----
-
-## > ls toolbox/
-
-<div align="center">
+<!-- The Tech Stack (toolbox/), kept clean -->
+<h3>> ls toolbox/</h3>
 
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-111111?style=for-the-badge)
-
-<br><br>
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+<br>
 
----
+***
 
-## > uptime
+<!-- Pinned Projects in a modern style -->
+<h3>> Pinned Projects</h3>
 
-```c
-while (alive)
-{
-    Learn();
-    Build();
-    Debug();
-    Commit();
-    Repeat();
-}
-```
+<a href="#intel-cpu-optimizer"><img src="https://img.shields.io/badge/%F0%9F%A7%A0_intel--cpu--optimizer-111111?style=flat-square&logo=c&logoColor=white" /></a>
+<a href="#terminal-system-monitor"><img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_terminal--system--monitor-111111?style=flat-square&logo=javascript&logoColor=white" /></a>
 
----
+<br>
 
-## > ping me
+<!-- Keep the uptime and git status, short and sweet -->
+<code>while(alive){ Learn(); Build(); Debug(); Commit(); Repeat(); }</code>
 
-<div align="center">
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notandreass)
-[![Email](https://img.shields.io/badge/ProtonMail-111111?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:radu.bataiosu@proton.me)
+`git status`
+On branch main | nothing to commit, always something to learn.
 
-</div>
+***
 
----
+<!-- Connect Buttons/Socials (ping me) -->
+<h3>> ping me</h3>
 
-<div align="center">
-
-```console
-$ git status
-
-On branch main
-
-nothing to commit,
-always something to learn.
-```
+<a href="https://github.com/notandreass" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:radu.bataiosu@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/ProtonMail-111111?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
