@@ -51,7 +51,7 @@
 
 ## > Pinned Projects
 
-### `intel-cpu-optimizations` (Main Project)
+### `intel-cpu-optimizations`
 
 <p>A Windows-focused tool for optimizing modern Intel CPUs, leveraging specific registry modifications and CLI interactions. This project represents my practical approach to systems programming and user experience.</p>
 
@@ -65,9 +65,9 @@
 
 <br>
 
-### `terminal-system-monitor`
+### `terminal-system-monitor` *(WIP)*
 
-<p>A lightweight, interactive terminal-based system monitoring tool. It provides real-time insights into CPU usage, memory consumption, and running processes, demonstrating my ability to build small, efficient utilities.</p>
+<p>A lightweight, interactive terminal-based system monitoring tool (currently work in progress). It aims to provide real-time insights into CPU usage, memory consumption, and running processes, demonstrating my ability to build small, efficient utilities.</p>
 
 <div align="center">
 
