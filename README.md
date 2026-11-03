@@ -1,37 +1,29 @@
 <div align="center">
 
-<!-- Main Anime Banner -->
 <a href="https://github.com/notandreass">
-  <img src="https://i.imgur.com/Rful1pw.gif" alt="Hu Tao banner" width="100%" />
+  <img src="https://i.imgur.com/Rful1pw.gif" alt="banner" width="100%" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Header with animated SVG -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Junior+Developer;Systems+Programming;Cybersecurity;Learning+Reverse+Engineering." alt="Header" /></h1>
-
-<h2>"Programs are temporary. Learning is permanent."</h2>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+notandreass;reverse+engineering;windows+internals;breaking+things+to+see+how+they+work" alt="typing" />
 
 </div>
 
-## > Who am I?
+<br/>
 
-<p>Hello! I'm notandreass.</p>
+### about
 
-<p>I am a highly motivated Junior Developer, I describe myself as a self-taught programmer with a genuine passion for understanding how systems work under the hood. While I’m officially a junior, I’ve spent countless hours diving into complex topics like systems optimization and security. I’m currently focused on transitioning my curiosity into formal professional experience.</p>
+i'm **notandreass**. i like writing code and taking other people's apart.
 
-<p>My approach is simple: I learn by building, breaking, and fixing things. I’m not afraid of the deep end; in fact, I thrive there.</p>
+most of my time goes into **windows internals**, **reverse engineering**, and messing with **game cheats / anti-cheat** stuff.
+self-taught, mostly learn by breaking things and figuring out why.
 
----
+<br/>
 
-## > What are my skills?
+### stack
 
-<br>
 <div align="center">
-
-### The Core Toolbox:
 
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
@@ -42,37 +34,8 @@
 
 </div>
 
-### Additional Capabilities:
-
-*   **Systems and OS:** Experienced in the Windows ecosystem, registry optimization, and process management.
-*   **Networking:** Knowledge of network protocols and basic analysis.
-
----
-
-## > Pinned Projects
-
-### `intel-cpu-optimizations`
-
-<p>A Windows-focused tool for optimizing modern Intel CPUs, leveraging specific registry modifications and CLI interactions. This project represents my practical approach to systems programming and user experience.</p>
+<br/>
 
 <div align="center">
-
-<a href="https://github.com/notandreass/intel-cpu-optimizations" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_OPEN_intel--cpu--optimizations-111111?style=for-the-badge&logo=c&logoColor=white" height="40px" alt="Open Intel CPU Optimizations" />
-</a>
-
-</div>
-
-<br>
-
-### `terminal-system-monitor`
-
-<p>A lightweight, interactive terminal-based system monitoring tool (currently work in progress). It aims to provide real-time insights into CPU usage, memory consumption, and running processes, demonstrating my ability to build small, efficient utilities.</p>
-
-<div align="center">
-
-<a href="https://github.com/notandreass/terminal-system-monitor" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_VIEW_terminal--system--monitor-111111?style=for-the-badge&logo=javascript&logoColor=white" height="40px" alt="View Terminal System Monitor" />
-</a>
-
+  <sub><i>programs are temporary. learning is permanent.</i></sub>
 </div>
